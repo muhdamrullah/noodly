@@ -1,0 +1,29 @@
+{
+  "name": "neural-doodle",
+  "version": "1.0.0",
+  "description": "An API to do the neural doodle",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-fileupload": "^0.0.5",
+    "form-data": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "fs-sync": "^1.0.3",
+    "image-downloader": "^2.0.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muhdamrullah/noodly.git"
+  },
+  "author": "Muhd Amrullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhdamrullah/noodly/issues"
+  },
+  "homepage": "https://github.com/muhdamrullah/noodly#readme"
+}
