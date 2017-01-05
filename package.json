@@ -10,7 +10,7 @@
     "form-data": "^2.1.2",
     "fs": "^0.0.1-security",
     "fs-sync": "^1.0.3",
-    "image-downloader": "^2.0.1",
+    "image-downloader": "^2.0.1"
   },
   "devDependencies": {},
   "scripts": {
